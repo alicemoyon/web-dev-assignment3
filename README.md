@@ -1,6 +1,6 @@
 # web-dev-assignment3
 
-Web Application Development module assignment 2 (Higher Diploma in Computer Science)
+Web Application Development module assignment 3 (Higher Diploma in Computer Science)
 
 College project - Interactive website that connects to a mySQL database. Built with HTML/CSS, JavaScript and PHP.
 
