@@ -4,7 +4,7 @@ Web Application Development module assignment 3 (Higher Diploma in Computer Scie
 
 College project - Interactive website that connects to a mySQL database. Built with HTML/CSS, JavaScript and PHP.
 
-Preview here: http://htmlpreview.github.io/?https://github.com/alicemoyon/web-dev-assignment2/blob/master/index.php
+Preview here: http://htmlpreview.github.io/?https://github.com/alicemoyon/web-dev-assignment3/blob/master/index.php
 
 This website contains three pages: index.php, customers.php and orders.php.
 
